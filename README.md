@@ -27,5 +27,13 @@ cd ez-webm
 
 sh ezwebm.sh
 
+PLEASE DONT FORGET THIS:
+
+Two videos(the first part and the second part which will disappear)
+MUST BE IN THE SAME DIRECTORY EZ-WEBM IS!
+
+you dont have to type .mp4 or .webm next to the video name because we already do it for you.
+
+(videos must be .mp4)
 
 
