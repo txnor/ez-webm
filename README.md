@@ -23,7 +23,7 @@ Please download termux from F-Droid before executing these commands.
 
 to execute the script:
 
-cd ezwebm
+cd ez-webm
 
 sh ezwebm.sh
 
