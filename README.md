@@ -21,4 +21,10 @@ git clone https://github.com/txnor/ez-webm/
 
 Please download termux from F-Droid before executing these commands.
 
+to execute the script:
+
+cd ezwebm
+sh ezwebm.sh
+
+
 
