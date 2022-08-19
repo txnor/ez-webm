@@ -1,8 +1,6 @@
 # ez-webm
 Make disappearing webms using termux or linux!
 
-
-
 How to use this:
 
 in termux or linux you have to type:
