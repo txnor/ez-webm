@@ -9,8 +9,6 @@ apt upgrade && apt update
 
 pkg install git
 
-pkg install ffmpeg
-
 then you must do:
 
 git clone https://github.com/txnor/ez-webm/
@@ -23,7 +21,11 @@ to execute the script:
 
 cd ez-webm
 
-sh ezwebm.sh
+chmod +x ezwebm.sh
+./ezwebm.sh
+
+in case it doesnt work in termux execute:
+termux-setup-storage
 
 PLEASE DONT FORGET THIS:
 
